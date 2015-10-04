@@ -8,7 +8,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Web & Electron](#web)
+- [Web (+ NW & Electron)](#web)
 - [Mobile](#mobile)
 - [Command Line Interface](#cli)
 - [Television](#tv)
@@ -17,7 +17,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <!-- /MarkdownTOC -->
 
 <a name="web" />
-## Web & Electron
+## Web (+ NW & Electron)
 
 * [react-dom](https://github.com/facebook/react/tree/master/packages/react-dom) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [react-art](https://github.com/reactjs/react-art) - React Bridge to the ART Drawing Library.
