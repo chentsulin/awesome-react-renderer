@@ -28,6 +28,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Mobile
 
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+* [react-titanium](https://github.com/yuchi/react-titanium) - React custom renderer for Appcelerator® Titanium™ SDK
 
 <a name="cli" />
 ## Command Line Interface
