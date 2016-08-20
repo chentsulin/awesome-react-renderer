@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Command Line Interface](#cli)
 - [Television](#tv)
 - [Hardware](#hardware)
+- [Learn](#learn)
 
 <!-- /MarkdownTOC -->
 
@@ -46,6 +47,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Hardware
 
 * [react-hardware](https://github.com/iamdustan/react-hardware) - React Hardware enables you to build firmata-based hardware applications using React. 
+
+<a name="learn" />
+## Learn
+
+* [tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - Learn you a React Renderer for Great Good.
 
 ## License
 
