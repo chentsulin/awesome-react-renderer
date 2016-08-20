@@ -23,6 +23,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-art](https://github.com/reactjs/react-art) - React Bridge to the ART Drawing Library.
 * [react-canvas](https://github.com/Flipboard/react-canvas) - High performance canvas rendering for React components.
 * [react-three](https://github.com/Izzimach/react-three) - React bindings to create and control a 3D scene using three.js.
+* [React-GL](https://github.com/PixelsCommander/React-GL) - Render React components in WebGL for 60 FPS animations.
 
 <a name="mobile" />
 ## Mobile
