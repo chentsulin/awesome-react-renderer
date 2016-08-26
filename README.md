@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Command Line Interface](#cli)
 - [Television](#tv)
 - [Hardware](#hardware)
+- [Miscellaneous](#Miscellaneous)
 - [Learn](#learn)
 
 <!-- /MarkdownTOC -->
@@ -47,6 +48,12 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Hardware
 
 * [react-hardware](https://github.com/iamdustan/react-hardware) - React Hardware enables you to build firmata-based hardware applications using React. 
+
+<a name="miscellaneous" />
+## Miscellaneous
+
+* [noop-renderer](https://github.com/facebook/react/blob/master/src/renderers/noop/ReactNoop.js) - This is a renderer of React that doesn't have a render target output. It is useful to demonstrate the internals of the reconciler in isolation and for testing semantics of reconciliation separate from the host environment.
+* [react-test-renderer](https://www.npmjs.com/package/react-test-renderer) - React package for snapshot testing.
 
 <a name="learn" />
 ## Learn
