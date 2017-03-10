@@ -1,6 +1,6 @@
 # awesome-react-renderer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Awesome list of React Renderer 
+> Awesome list of React Renderer
 
 If you want to contribute to this list (please do), send me a pull request.
 
@@ -26,7 +26,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-canvas](https://github.com/Flipboard/react-canvas) - High performance canvas rendering for React components.
 * [react-three](https://github.com/Izzimach/react-three) - React bindings to create and control a 3D scene using three.js.
 * [React-GL](https://github.com/PixelsCommander/React-GL) - Render React components in WebGL for 60 FPS animations.
-* [ReactLiberty](https://github.com/LibertyGlobal/ReactLiberty) - Connect, discover, be free to choose between WebGL / Canvas (PIXI) / DOM or any other UI renderer. 
+* [ReactLiberty](https://github.com/LibertyGlobal/ReactLiberty) - Connect, discover, be free to choose between WebGL / Canvas (PIXI) / DOM or any other UI renderer.
 
 <a name="mobile" />
 ## Mobile
@@ -43,11 +43,12 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Television
 
 * [react-tvml](https://github.com/ramitos/react-tvml) - React bindings to Apple's TVJS and TVML.
+* [React-Gibbon](http://techblog.netflix.com/2017/01/crafting-high-performance-tv-user.html) - React bindings to Netflix's custom Gibbon rendering layer on TV devices.
 
 <a name="hardware" />
 ## Hardware
 
-* [react-hardware](https://github.com/iamdustan/react-hardware) - React Hardware enables you to build firmata-based hardware applications using React. 
+* [react-hardware](https://github.com/iamdustan/react-hardware) - React Hardware enables you to build firmata-based hardware applications using React.
 
 <a name="miscellaneous" />
 ## Miscellaneous
