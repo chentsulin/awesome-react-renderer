@@ -19,6 +19,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <!-- /MarkdownTOC -->
 
 <a name="web" />
+
 ## Web (+ NW & Electron)
 
 * [react-dom](https://github.com/facebook/react/tree/master/packages/react-dom) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -30,34 +31,40 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-vr](https://github.com/facebookincubator/react-vr) - Render React components in WebGL/WebVR for VR apps.
 
 <a name="mobile" />
+
 ## Mobile
 
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [react-titanium](https://github.com/yuchi/react-titanium) - React custom renderer for Appcelerator® Titanium™ SDK
 
 <a name="cli" />
+
 ## Command Line Interface
 
 * [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 
 <a name="tv" />
+
 ## Television
 
 * [react-tvml](https://github.com/ramitos/react-tvml) - React bindings to Apple's TVJS and TVML.
 * [React-Gibbon](http://techblog.netflix.com/2017/01/crafting-high-performance-tv-user.html) - React bindings to Netflix's custom Gibbon rendering layer on TV devices.
 
 <a name="hardware" />
+
 ## Hardware
 
 * [react-hardware](https://github.com/iamdustan/react-hardware) - React Hardware enables you to build firmata-based hardware applications using React.
 
 <a name="miscellaneous" />
+
 ## Miscellaneous
 
 * [noop-renderer](https://github.com/facebook/react/blob/master/src/renderers/noop/ReactNoop.js) - This is a renderer of React that doesn't have a render target output. It is useful to demonstrate the internals of the reconciler in isolation and for testing semantics of reconciliation separate from the host environment.
 * [react-test-renderer](https://www.npmjs.com/package/react-test-renderer) - React package for snapshot testing.
 
 <a name="learn" />
+
 ## Learn
 
 * [tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - Learn you a React Renderer for Great Good.
