@@ -72,6 +72,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [noop-renderer](https://github.com/facebook/react/blob/master/src/renderers/noop/ReactNoop.js) - This is a renderer of React that doesn't have a render target output. It is useful to demonstrate the internals of the reconciler in isolation and for testing semantics of reconciliation separate from the host environment.
 * [react-test-renderer](https://www.npmjs.com/package/react-test-renderer) - React package for snapshot testing.
 * [react-x11](https://github.com/sidorares/react-x11) - React renderer with X11 as a target.
+* [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch.
 
 <a name="learn" />
 
