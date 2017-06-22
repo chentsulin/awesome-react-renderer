@@ -30,14 +30,15 @@ If you want to contribute to this list (please do), send me a pull request.
 * [React-GL](https://github.com/PixelsCommander/React-GL) - Render React components in WebGL for 60 FPS animations.
 * [ReactLiberty](https://github.com/LibertyGlobal/ReactLiberty) - Connect, discover, be free to choose between WebGL / Canvas (PIXI) / DOM or any other UI renderer.
 * [react-vr](https://github.com/facebookincubator/react-vr) - Render React components in WebGL/WebVR for VR apps.
-* [react-konsul](https://github.com/mohebifar/konsul) - A react renderer that renders to the browser's devtools console
+* [react-konsul](https://github.com/mohebifar/konsul) - A react renderer that renders to the browser's devtools console.
+* [react-worker-dom](https://github.com/web-perf/react-worker-dom) - Experiments to see the advantages of using Web Workers to Render React Virtual DOM.
 
 <a name="mobile" />
 
 ## Mobile
 
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
-* [react-titanium](https://github.com/yuchi/react-titanium) - React custom renderer for Appcelerator® Titanium™ SDK
+* [react-titanium](https://github.com/yuchi/react-titanium) - React custom renderer for Appcelerator® Titanium™ SDK.
 
 <a name="cli" />
 
