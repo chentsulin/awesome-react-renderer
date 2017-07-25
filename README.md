@@ -32,6 +32,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-vr](https://github.com/facebookincubator/react-vr) - Render React components in WebGL/WebVR for VR apps.
 * [react-konsul](https://github.com/mohebifar/konsul) - A react renderer that renders to the browser's devtools console.
 * [react-worker-dom](https://github.com/web-perf/react-worker-dom) - Experiments to see the advantages of using Web Workers to Render React Virtual DOM.
+* [rax](https://github.com/alibaba/rax) - A universal React-compatible render engine.
 
 <a name="mobile" />
 
