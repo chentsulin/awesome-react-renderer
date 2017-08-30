@@ -33,6 +33,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-konsul](https://github.com/mohebifar/konsul) - A react renderer that renders to the browser's devtools console.
 * [react-worker-dom](https://github.com/web-perf/react-worker-dom) - Experiments to see the advantages of using Web Workers to Render React Virtual DOM.
 * [rax](https://github.com/alibaba/rax) - A universal React-compatible render engine.
+* [react-pdf](https://github.com/diegomura/react-pdf) - Render PDFs into a web page or React app, backed by PDF.js.
 
 <a name="mobile" />
 
@@ -65,7 +66,6 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## File
 
-* [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React.
 * [redocx](https://github.com/nitin42/redocx) - Create word documents using React.
 * [react-fs-renderer](https://github.com/ericvicenti/react-fs-renderer) - Declaratively render a tree of files with JSX.
 
