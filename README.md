@@ -83,6 +83,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Learn
 
 * [tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - Learn you a React Renderer for Great Good.
+* [Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer) - Tutorial on how to make a custom React renderer.
 
 ## License
 
