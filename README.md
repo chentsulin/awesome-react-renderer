@@ -54,6 +54,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [react-tvml](https://github.com/ramitos/react-tvml) - React bindings to Apple's TVJS and TVML.
 * [React-Gibbon](http://techblog.netflix.com/2017/01/crafting-high-performance-tv-user.html) - React bindings to Netflix's custom Gibbon rendering layer on TV devices.
+* [react-tv](https://github.com/raphamorim/react-tv) - React development for TV (WebOS, SmartTVs)
 
 <a name="hardware" />
 
