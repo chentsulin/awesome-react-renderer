@@ -78,6 +78,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-test-renderer](https://www.npmjs.com/package/react-test-renderer) - React package for snapshot testing.
 * [react-x11](https://github.com/sidorares/react-x11) - React renderer with X11 as a target.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch.
+* [react-html-email](https://github.com/chromakode/react-html-email) - Create HTML email templates using React without dealing with archaic HTML elements.
 
 <a name="learn" />
 
