@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Command Line Interface](#cli)
 - [Television](#tv)
 - [Hardware](#hardware)
+- [Email](#email)
 - [File](#file)
 - [Miscellaneous](#Miscellaneous)
 - [Learn](#learn)
@@ -62,6 +63,13 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [react-hardware](https://github.com/iamdustan/react-hardware) - React Hardware enables you to build firmata-based hardware applications using React.
 
+<a name="email" />
+
+## Email
+
+* [react-html-email](https://github.com/chromakode/react-html-email) - Create HTML email templates using React without dealing with archaic HTML elements.
+* [oy](https://github.com/revivek/oy) - Render HTML emails on the server with React.
+
 <a name="file" />
 
 ## File
@@ -78,7 +86,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-test-renderer](https://www.npmjs.com/package/react-test-renderer) - React package for snapshot testing.
 * [react-x11](https://github.com/sidorares/react-x11) - React renderer with X11 as a target.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch.
-* [react-html-email](https://github.com/chromakode/react-html-email) - Create HTML email templates using React without dealing with archaic HTML elements.
 
 <a name="learn" />
 
