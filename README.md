@@ -25,6 +25,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Web (+ NW & Electron)
 
 * [react-dom](https://github.com/facebook/react/tree/master/packages/react-dom) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [react-tiny-dom](https://github.com/jiayihu/react-tiny-dom) - A minimal implementation of react-dom using react-reconciler
 * [react-art](https://github.com/reactjs/react-art) - React Bridge to the ART Drawing Library.
 * [react-canvas](https://github.com/Flipboard/react-canvas) - High performance canvas rendering for React components.
 * [react-three](https://github.com/Izzimach/react-three) - React bindings to create and control a 3D scene using three.js.
