@@ -63,6 +63,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Hardware
 
 * [react-hardware](https://github.com/iamdustan/react-hardware) - React Hardware enables you to build firmata-based hardware applications using React.
+* [react-dmx](https://github.com/alexanderson1993/react-dmx) - Use React components to control lights and devices with DMX channels
 
 <a name="email" />
 
