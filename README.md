@@ -9,6 +9,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <!-- MarkdownTOC depth=4 -->
 
 - [Web (+ NW & Electron)](#web)
+- [Desktop](#desktop)
 - [Mobile](#mobile)
 - [Command Line Interface](#cli)
 - [Television](#tv)
@@ -35,6 +36,12 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-konsul](https://github.com/mohebifar/konsul) - A react renderer that renders to the browser's devtools console.
 * [react-worker-dom](https://github.com/web-perf/react-worker-dom) - Experiments to see the advantages of using Web Workers to Render React Virtual DOM.
 * [rax](https://github.com/alibaba/rax) - A universal React-compatible render engine.
+
+<a name="desktop" />
+
+## Desktop
+
+* [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
 
 <a name="mobile" />
 
