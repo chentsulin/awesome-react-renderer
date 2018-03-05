@@ -29,6 +29,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-tiny-dom](https://github.com/jiayihu/react-tiny-dom) - A minimal implementation of react-dom using react-reconciler
 * [react-art](https://github.com/reactjs/react-art) - React Bridge to the ART Drawing Library.
 * [react-canvas](https://github.com/Flipboard/react-canvas) - High performance canvas rendering for React components.
+* [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) - Write [PixiJS](http://www.pixijs.com/) applications using React declarative style.
 * [react-three](https://github.com/Izzimach/react-three) - React bindings to create and control a 3D scene using three.js.
 * [React-GL](https://github.com/PixelsCommander/React-GL) - Render React components in WebGL for 60 FPS animations.
 * [ReactLiberty](https://github.com/LibertyGlobal/ReactLiberty) - Connect, discover, be free to choose between WebGL / Canvas (PIXI) / DOM or any other UI renderer.
