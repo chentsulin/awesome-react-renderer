@@ -66,6 +66,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-tvml](https://github.com/ramitos/react-tvml) - React bindings to Apple's TVJS and TVML.
 * [React-Gibbon](http://techblog.netflix.com/2017/01/crafting-high-performance-tv-user.html) - React bindings to Netflix's custom Gibbon rendering layer on TV devices.
 * [react-tv](https://github.com/raphamorim/react-tv) - React development for TV (WebOS, SmartTVs)
+* [react-ape](https://github.com/raphamorim/react-ape) - React Renderer to build UI interfaces using canvas/WebGL
 
 <a name="hardware" />
 
@@ -98,8 +99,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-x11](https://github.com/sidorares/react-x11) - React renderer with X11 as a target.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch.
 * [react-slack-renderer](https://github.com/CentaurWarchief/react-slack-renderer) - render Slack messages using React.
-* [proton-native](https://github.com/kusti8/proton-native) - A React renderer for cross platform native desktop apps
-* [react-ape](https://github.com/raphamorim/react-ape)
 
 <a name="learn" />
 
