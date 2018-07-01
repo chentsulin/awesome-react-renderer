@@ -58,6 +58,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 * [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+* [react-cli](https://github.com/mgrip/react-cli) - a react renderer for the command line
 
 <a name="tv" />
 
