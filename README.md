@@ -16,6 +16,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Hardware](#hardware)
 - [Email](#email)
 - [File](#file)
+- [Music](#music)
 - [Miscellaneous](#Miscellaneous)
 - [Learn](#learn)
 
@@ -90,6 +91,12 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React.
 * [redocx](https://github.com/nitin42/redocx) - Create word documents using React.
 * [react-fs-renderer](https://github.com/ericvicenti/react-fs-renderer) - Declaratively render a tree of files with JSX.
+
+<a name="music" />
+
+## Music
+
+* [wax](https://github.com/jamesseanwright/wax) - An experimental, JSX-compatible renderer for the Web Audio API.
 
 <a name="miscellaneous" />
 
