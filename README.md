@@ -46,6 +46,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
 * [stain](https://github.com/cztomsik/stain) - [beta] rapid GUI development using familiar technologies (fat-free electron)
+* [react-gtk](https://github.com/codejamninja/react-gtk) - React Native renderer for gtk powered cross platform desktop applications that run on OSX, Linux and Windows
 
 <a name="mobile" />
 
