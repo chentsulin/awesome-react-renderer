@@ -46,6 +46,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
 * [stain](https://github.com/cztomsik/stain) - [beta] rapid GUI development using familiar technologies (fat-free electron)
+* [React NodeGUI](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 
 <a name="mobile" />
 
