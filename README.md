@@ -111,6 +111,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-test-renderer](https://www.npmjs.com/package/react-test-renderer) - React package for snapshot testing.
 * [react-x11](https://github.com/sidorares/react-x11) - React renderer with X11 as a target.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch.
+* [react-figma](https://github.com/react-figma/react-figma) - render React components to Figma.
 * [react-slack-renderer](https://github.com/CentaurWarchief/react-slack-renderer) - render Slack messages using React.
 * [workflow-react](https://github.com/havardh/workflow/tree/master/packages/workflow-react) - render your desktop layout with React
 
