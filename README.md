@@ -44,11 +44,11 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Desktop
 
-* [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
-* [stain](https://github.com/cztomsik/stain) - [beta] rapid GUI development using familiar technologies (fat-free electron)
+* [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps.
+* [stain](https://github.com/cztomsik/stain) - [beta] rapid GUI development using familiar technologies (fat-free electron).
 * [React NodeGUI](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
-* [react-gtk](https://github.com/codejamninja/react-gtk) - React Native renderer for gtk powered cross platform desktop applications that run on OSX, Linux and Windows
-* [react-qml](https://github.com/longseespace/react-qml) - Build native, high-performance, cross-platform applications (desktop and mobile) through a React (and/or QML) syntax
+* [react-gtk](https://github.com/codejamninja/react-gtk) - React Native renderer for gtk powered cross platform desktop applications that run on OSX, Linux and Windows.
+* [react-qml](https://github.com/longseespace/react-qml) - Build native, high-performance, cross-platform applications (desktop and mobile) through a React (and/or QML) syntax.
 
 <a name="mobile" />
 
@@ -62,8 +62,8 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Command Line Interface
 
 * [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
-* [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-* [react-cli](https://github.com/mgrip/react-cli) - a react renderer for the command line
+* [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+* [react-cli](https://github.com/mgrip/react-cli) - a react renderer for the command line.
 
 <a name="tv" />
 
@@ -71,15 +71,15 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [react-tvml](https://github.com/ramitos/react-tvml) - React bindings to Apple's TVJS and TVML.
 * [React-Gibbon](http://techblog.netflix.com/2017/01/crafting-high-performance-tv-user.html) - React bindings to Netflix's custom Gibbon rendering layer on TV devices.
-* [react-tv](https://github.com/raphamorim/react-tv) - React development for TV (WebOS, SmartTVs)
-* [react-ape](https://github.com/raphamorim/react-ape) - React Renderer to build UI interfaces using canvas/WebGL
+* [react-tv](https://github.com/raphamorim/react-tv) - React development for TV (WebOS, SmartTVs).
+* [react-ape](https://github.com/raphamorim/react-ape) - React Renderer to build UI interfaces using canvas/WebGL.
 
 <a name="hardware" />
 
 ## Hardware
 
 * [react-hardware](https://github.com/iamdustan/react-hardware) - React Hardware enables you to build firmata-based hardware applications using React.
-* [react-dmx](https://github.com/alexanderson1993/react-dmx) - Use React components to control lights and devices with DMX channels
+* [react-dmx](https://github.com/alexanderson1993/react-dmx) - Use React components to control lights and devices with DMX channels.
 * [react-ssd1306](https://github.com/doodlewind/react-ssd1306) - A React Renderer for SSD1306 OLED chip on Raspberry Pi.
 
 <a name="email" />
@@ -115,12 +115,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch.
 * [react-figma](https://github.com/react-figma/react-figma) - render React components to Figma.
 * [react-slack-renderer](https://github.com/CentaurWarchief/react-slack-renderer) - render Slack messages using React.
-* [workflow-react](https://github.com/havardh/workflow/tree/master/packages/workflow-react) - render your desktop layout with React
+* [workflow-react](https://github.com/havardh/workflow/tree/master/packages/workflow-react) - render your desktop layout with React.
 
 <a name="learn" />
 
 ## Learn
 
+* [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok) - "Building a Custom React Renderer | Sophie Alpert" in React Conf 2019.
 * [tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - Learn you a React Renderer for Great Good.
 * [Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer) - Tutorial on how to make a custom React renderer.
 * [⚛️👆Beginners guide to React Renderers. How to build your own renderer from scratch?](https://blog.atulr.com/react-custom-renderer-1/)
