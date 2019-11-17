@@ -47,6 +47,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
 * [stain](https://github.com/cztomsik/stain) - [beta] rapid GUI development using familiar technologies (fat-free electron)
 * [react-gtk](https://github.com/codejamninja/react-gtk) - React Native renderer for gtk powered cross platform desktop applications that run on OSX, Linux and Windows
+* [react-qml](https://github.com/longseespace/react-qml) - Build native, high-performance, cross-platform applications (desktop and mobile) through a React (and/or QML) syntax
 
 <a name="mobile" />
 
@@ -93,6 +94,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React.
 * [redocx](https://github.com/nitin42/redocx) - Create word documents using React.
 * [react-fs-renderer](https://github.com/ericvicenti/react-fs-renderer) - Declaratively render a tree of files with JSX.
+* [fileable](https://github.com/johnhenry/fileable) - Render file trees using JSX Templates.
 
 <a name="music" />
 
@@ -105,6 +107,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Miscellaneous
 
 * [noop-renderer](https://github.com/facebook/react/blob/master/src/renderers/noop/ReactNoop.js) - This is a renderer of React that doesn't have a render target output. It is useful to demonstrate the internals of the reconciler in isolation and for testing semantics of reconciliation separate from the host environment.
+* [react-ast](https://github.com/codejamninja/react-ast) - React AST is the ultimate meta programming tool that uses react to render abstract syntax trees. It can be used to build powerful code generators and babel plugins that are easy to read and can scale.
 * [react-test-renderer](https://www.npmjs.com/package/react-test-renderer) - React package for snapshot testing.
 * [react-x11](https://github.com/sidorares/react-x11) - React renderer with X11 as a target.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch.
