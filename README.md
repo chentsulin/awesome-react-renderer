@@ -57,6 +57,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [react-titanium](https://github.com/yuchi/react-titanium) - React custom renderer for Appcelerator® Titanium™ SDK.
 * [react-jsbox](https://github.com/Nicify/react-jsbox) - React custom renderer for rendering native iOS UIKit with React + [JSBox](https://docs.xteko.com/#/en/uikit/intro)
+* [react-nativescript](https://github.com/shirakaba/react-nativescript) - React renderer for NativeScript
 
 <a name="cli" />
 
