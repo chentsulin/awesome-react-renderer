@@ -107,6 +107,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Music
 
 * [wax](https://github.com/jamesseanwright/wax) - An experimental, JSX-compatible renderer for the Web Audio API.
+* [react-juce](https://github.com/nick-thompson/react-juce) - Custom React renderer for JUCE C++ audio framework.
 
 <a name="miscellaneous" />
 
@@ -122,8 +123,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [workflow-react](https://github.com/havardh/workflow/tree/master/packages/workflow-react) - render your desktop layout with React.
 * [react-unity](https://github.com/KurtGokhan/react-unity) - render React components to Unity UI
 * [@ts-graphviz/react](https://github.com/ts-graphviz/react) - Graphviz-dot Renderer using React.
-* [urban-bot](https://github.com/urban-bot/urban-bot) - React for creating chatbots for any messengers (Telegram, Facebook, Slack, ...)
-* [react-xpress](https://github.com/gigantz/react-xpress) - React for building Node.js server
+* [urban-bot](https://github.com/urban-bot/urban-bot) - React for creating chatbots for any messengers (Telegram, Facebook, Slack, ...).
+* [react-xpress](https://github.com/gigantz/react-xpress) - React for building Node.js server.
+
 <a name="learn" />
 
 ## Learn
