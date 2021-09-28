@@ -124,6 +124,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Chatbot
 
 * [urban-bot](https://github.com/urban-bot/urban-bot) - React for creating chatbots for any messengers (Telegram, Facebook, Slack, ...).
+* [phelia](https://github.com/maxchehab/phelia) - A reactive Slack application framework.
 * [react-slack-renderer](https://github.com/CentaurWarchief/react-slack-renderer) - render Slack messages using React.
 
 <a name="miscellaneous" />
