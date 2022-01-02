@@ -37,6 +37,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-konsul](https://github.com/mohebifar/konsul) - A react renderer that renders to the browser's devtools console.
 * [react-worker-dom](https://github.com/web-perf/react-worker-dom) - Experiments to see the advantages of using Web Workers to Render React Virtual DOM.
 * [react-native-dom](https://github.com/vincentriemer/react-native-dom) An experimental, comprehensive port of React Native to the web.
+* [react-native-skia](https://github.com/shopify/react-native-skia) - React Renderer for the Skia drawing library.
 * [react-360](https://github.com/facebookarchive/react-360) (archived) - Render React components in WebGL/WebVR for VR apps.
 * [react-art](https://github.com/reactjs/react-art) (archived) - React Bridge to the ART Drawing Library.
 
