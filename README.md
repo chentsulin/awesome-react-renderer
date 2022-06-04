@@ -40,6 +40,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-native-skia](https://github.com/shopify/react-native-skia) - React Renderer for the Skia drawing library.
 * [react-360](https://github.com/facebookarchive/react-360) (archived) - Render React components in WebGL/WebVR for VR apps.
 * [react-art](https://github.com/reactjs/react-art) (archived) - React Bridge to the ART Drawing Library.
+* [react-ol-fiber](https://github.com/giulioz/react-ol-fiber) - React reconciler for the OpenLayers geographic maps library.
 
 <a name="3d" />
 
