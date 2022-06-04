@@ -48,6 +48,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [react-three-fiber](https://github.com/react-spring/react-three-fiber) - React reconciler for Threejs on the web and react-native.
 * [react-unity](https://github.com/ReactUnity/core) - render React components to Unity UI
+* [react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React Renderer for Babylon.js (web and native)
 
 <a name="desktop" />
 
