@@ -42,6 +42,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-360](https://github.com/facebookarchive/react-360) (archived) - Render React components in WebGL/WebVR for VR apps.
 * [react-art](https://github.com/reactjs/react-art) (archived) - React Bridge to the ART Drawing Library.
 * [react-ol-fiber](https://github.com/giulioz/react-ol-fiber) - React reconciler for the OpenLayers geographic maps library.
+* [react-rough-fiber](https://github.com/Bowen7/react-rough-fiber) - A React renderer for rendering hand-drawn SVGs.
 
 <a name="3d" />
 
