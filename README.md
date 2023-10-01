@@ -100,7 +100,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [react-html-email](https://github.com/chromakode/react-html-email) (unmaintained) - Create HTML email templates using React without dealing with archaic HTML elements.
 * [oy](https://github.com/revivek/oy) - Render HTML emails on the server with React.
-* [react email](https://github.com/resendlabs/react-email)
+* [react-email](https://github.com/resendlabs/react-email)
 
 <a name="file" />
 
