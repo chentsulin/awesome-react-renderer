@@ -145,6 +145,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [workflow-react](https://github.com/havardh/workflow/tree/master/packages/workflow-react) - render your desktop layout with React.
 * [@ts-graphviz/react](https://github.com/ts-graphviz/react) - Graphviz-dot Renderer using React.
 * [react-xpress](https://github.com/gigantz/react-xpress) - React for building Node.js server.
+* [React-Minecraft](https://github.com/bufferhead-code/react-minecraft) - Create Minecraft builds using React.js components
 
 <a name="learn" />
 
@@ -157,6 +158,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Render React to Embedded LCD](https://github.com/doodlewind/react-ssd1306/blob/master/docs/tutorial.md) - Tutorial for building a React renderer that dynamically updates an OLED chip, based on the embeddable QuickJS intepreter, native C driver modules, and a HTML5 canvas emulator.
 * [React Renderers: an Overview](https://dev.to/lessmess/react-renderers-an-overview-34f3)
 * [Create React Renderer](https://github.com/codejamninja/create-react-renderer) - open source course to learn how to build a custom react renderer
+
 
 ## License
 
