@@ -76,6 +76,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 * [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+* [terminosaurus](https://mael.dev/terminosaurus/) - A powerful terminal UI library for React, with CSS-like support
 
 <a name="tv" />
 
