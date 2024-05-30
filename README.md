@@ -147,6 +147,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [@ts-graphviz/react](https://github.com/ts-graphviz/react) - Graphviz-dot Renderer using React.
 * [react-xpress](https://github.com/gigantz/react-xpress) - React for building Node.js server.
 * [React-Minecraft](https://github.com/bufferhead-code/react-minecraft) - Create Minecraft builds using React.js components
+* [react-node-insim](https://github.com/simbroadcasts/react-node-insim) - React renderer for in-game InSim buttons for [Live for Speed](https://www.lfs.net/).
 
 <a name="learn" />
 
