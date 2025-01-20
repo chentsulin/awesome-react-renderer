@@ -111,6 +111,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [redocx](https://github.com/nitin42/redocx) - Create word documents using React.
 * [react-fs-renderer](https://github.com/ericvicenti/react-fs-renderer) - Declaratively render a tree of files with JSX.
 * [fileable](https://github.com/johnhenry/fileable) - Render file trees using JSX Templates.
+* [react-tf](https://github.com/dmk/react-tf) - Render Terraform HCL code using JSX Templates.
 
 <a name="design" />
 
