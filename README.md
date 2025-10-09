@@ -148,6 +148,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [@ts-graphviz/react](https://github.com/ts-graphviz/react) - Graphviz-dot Renderer using React.
 * [react-xpress](https://github.com/gigantz/react-xpress) - React for building Node.js server.
 * [React-Minecraft](https://github.com/bufferhead-code/react-minecraft) - Create Minecraft builds using React.js components
+* [Takumi](https://github.com/kane50613/takumi) - Render React components to PNG.
 
 <a name="learn" />
 
