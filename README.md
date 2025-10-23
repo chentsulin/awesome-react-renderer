@@ -134,7 +134,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [urban-bot](https://github.com/urban-bot/urban-bot) - React for creating chatbots for any messengers (Telegram, Facebook, Slack, ...).
 * [phelia](https://github.com/maxchehab/phelia) - A reactive Slack application framework.
 * [react-slack-renderer](https://github.com/CentaurWarchief/react-slack-renderer) - render Slack messages using React.
-* [reacord](https://github.com/itsMapleLeaf/reacord) - Create interactive Discord messages using React. 
+* [reacord](https://github.com/itsMapleLeaf/reacord) - Create interactive Discord messages using React.
+* [discord-jsx-renderer](https://github.com/deniz-blue/discordjsx) - React for discord.js (components v2)
 
 <a name="miscellaneous" />
 
