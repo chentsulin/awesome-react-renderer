@@ -157,6 +157,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok) - "Building a Custom React Renderer | Sophie Alpert" in React Conf 2019.
 * [tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - Learn you a React Renderer for Great Good.
 * [Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer) - Tutorial on how to make a custom React renderer.
+* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [⚛️👆Beginners guide to React Renderers. How to build your own renderer from scratch?](https://blog.atulr.com/react-custom-renderer-1/)
 * [Render React to Embedded LCD](https://github.com/doodlewind/react-ssd1306/blob/master/docs/tutorial.md) - Tutorial for building a React renderer that dynamically updates an OLED chip, based on the embeddable QuickJS intepreter, native C driver modules, and a HTML5 canvas emulator.
 * [React Renderers: an Overview](https://dev.to/lessmess/react-renderers-an-overview-34f3)
