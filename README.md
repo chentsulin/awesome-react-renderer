@@ -60,6 +60,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [React NodeGUI](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 * [react-gtk](https://github.com/codejamninja/react-gtk) - React Native renderer for gtk powered cross platform desktop applications that run on OSX, Linux and Windows.
 * [react-qml](https://github.com/longseespace/react-qml) - Build native, high-performance, cross-platform applications (desktop and mobile) through a React (and/or QML) syntax.
+* [gtkx](https://gtkx.dev) - Native Linux application development for the modern age.
 
 <a name="mobile" />
 
