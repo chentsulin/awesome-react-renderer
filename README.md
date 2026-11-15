@@ -126,6 +126,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [wax](https://github.com/jamesseanwright/wax) - An experimental, JSX-compatible renderer for the Web Audio API.
 * [react-juce](https://github.com/nick-thompson/react-juce) - Custom React renderer for JUCE C++ audio framework.
+* [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and hosted MCP server (`https://nostairsplease.com/mcp`) for touring musicians.
 
 <a name="chatbot" />
 
